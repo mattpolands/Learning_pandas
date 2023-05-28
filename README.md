@@ -1,5 +1,7 @@
 # Learning_pandas
 
+Link to pandas documentation guide - https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+
 Pandas is a Python library that allows us to create DataFrames.
 
 A Pandas DataFrame is a two-dimensional, labeled data structure provided by the Python library called Pandas. It is designed to handle and manipulate tabular data, similar to a table or a spreadsheet, with rows and columns. The DataFrame is one of the core data structures in Pandas and offers powerful data analysis and manipulation capabilities.
